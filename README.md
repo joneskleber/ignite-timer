@@ -26,4 +26,4 @@ This project was developed with the following technologies:
 
 ## License
 
-This project is under the Visão On-line.
+This project is under the Jones Kleber.
