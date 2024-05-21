@@ -24,6 +24,11 @@ This project was developed with the following technologies:
 
 [![](https://contrib.rocks/image?repo=joneskleber/joneskleber)](https://github.com/joneskleber)
 
+
+## Educator
+
+[![](https://contrib.rocks/image?repo=diego3g/diego3g)](https://github.com/diego3g)</br><strong>Diego Fernandes</strong><br/>CTO | @Rocketseat
+
 ## License
 
-This project is under the Jones Kleber.
+This project is under the [Rocketseat](https://www.rocketseat.com.br/).
