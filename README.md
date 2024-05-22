@@ -12,13 +12,17 @@ This project was developed with the following technologies:
 
 - [Reactjs](https://reactjs.org)
 - [Vite](https://vitejs.dev/)
-
 - [TypeScript](https://www.typescriptlang.org)
+- [React Router]()
 
 ## Libraries
 
 - npm i styled-components
 - npm i @types/styled-components -D
+- npm i eslint -D
+- npm i @rocketseat/eslint-config -D
+- npm i react-router-dom
+
 
 ## Contributors
 
@@ -31,4 +35,4 @@ This project was developed with the following technologies:
 
 ## License
 
-This project is under the [Rocketseat](https://www.rocketseat.com.br/).
+This project is under license from  [Rocketseat](https://www.rocketseat.com.br/).
