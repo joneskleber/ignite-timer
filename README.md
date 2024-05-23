@@ -14,6 +14,7 @@ This project was developed with the following technologies:
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org)
 - [React Router]()
+- [Phosphor-react]()
 
 ## Libraries
 
@@ -22,6 +23,7 @@ This project was developed with the following technologies:
 - npm i eslint -D
 - npm i @rocketseat/eslint-config -D
 - npm i react-router-dom
+- npm i phosphor-react
 
 
 ## Contributors
