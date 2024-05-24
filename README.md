@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 - npm i phosphor-react
 - npm i react-hook-form
 - npm i zod
-- npm i @react-hook-form/zod
+- npm i @hookform/resolvers
 
 ## Contributors
 
