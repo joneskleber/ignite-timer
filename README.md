@@ -1,5 +1,8 @@
 ## Trilha Ignite - Projeto 02 - Ignite Timer
 
+![alt text](./src/assets/imgs-project/image.png)
+![alt text](./src/assets/imgs-project/image-1.png)
+
 ### Iniciando com React
 
 npm create vite@latest
