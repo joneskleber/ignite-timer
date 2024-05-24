@@ -14,7 +14,9 @@ This project was developed with the following technologies:
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org)
 - [React Router]()
+- [React Hook Form]()
 - [Phosphor-react]()
+- [Zod]()
 
 ## Libraries
 
@@ -24,12 +26,13 @@ This project was developed with the following technologies:
 - npm i @rocketseat/eslint-config -D
 - npm i react-router-dom
 - npm i phosphor-react
-
+- npm i react-hook-form
+- npm i zod
+- npm i @react-hook-form/zod
 
 ## Contributors
 
 [![](https://contrib.rocks/image?repo=joneskleber/joneskleber)](https://github.com/joneskleber)
-
 
 ## Educator
 
@@ -37,4 +40,4 @@ This project was developed with the following technologies:
 
 ## License
 
-This project is under license from  [Rocketseat](https://www.rocketseat.com.br/).
+This project is under license from [Rocketseat](https://www.rocketseat.com.br/).
