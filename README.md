@@ -20,6 +20,7 @@ This project was developed with the following technologies:
 - [React Hook Form]()
 - [Phosphor-react]()
 - [Zod]()
+- [Date fns]()
 
 ## Libraries
 
@@ -32,6 +33,7 @@ This project was developed with the following technologies:
 - npm i react-hook-form
 - npm i zod
 - npm i @hookform/resolvers
+- npm i date-fns
 
 ## Contributors
 
