@@ -15,4 +15,7 @@ export function App() {
       <GlobalStyle />
     </ThemeProvider>
   );
+  // return (
+  //   <Home />
+  // )
 }

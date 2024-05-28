@@ -20,14 +20,7 @@ const formCycleFormValidationSchema = zod.object({
 
 type NewCycleFormData = zod.infer<typeof formCycleFormValidationSchema>;
 
-interface Cycle {
-  id: string;
-  task: string;
-  minutesAmount: number;
-  startDate: Date;
-  interruptedDate?: Date;
-  finishedDate?: Date;
-}
+
 
 export function NewCycleForm() {
   const { register, handleSubmit, watch, reset } = useForm<NewCycleFormData>({
