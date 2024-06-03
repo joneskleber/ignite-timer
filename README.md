@@ -18,6 +18,8 @@ This project was developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org)
 - [React Router]()
 - [React Hook Form]()
+- [Context API]()
+- [Reducer]()
 - [Phosphor-react]()
 - [Zod]()
 - [Date fns]()
