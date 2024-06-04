@@ -16,14 +16,15 @@ This project was developed with the following technologies:
 - [Reactjs](https://reactjs.org)
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org)
-- [React Router]()
-- [React Hook Form]()
-- [Context API]()
-- [Reducer]()
-- [Phosphor-react]()
-- [Zod]()
-- [Date fns]()
-- [Immer]()
+- [React Router](https://reactrouter.com/en/main)
+- [React Hook Form](https://www.react-hook-form.com/)
+- [Context API](https://legacy.reactjs.org/docs/context.html)
+- [Reducer](https://react.dev/reference/react/useReducer)
+- [Phosphor-react](https://phosphoricons.com/)
+- [Zod](https://zod.dev/)
+- [Date fns](https://date-fns.org/)
+- [Immer](https://immerjs.github.io/immer/)
+- [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem)
 
 ## Libraries
 
