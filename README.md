@@ -23,6 +23,7 @@ This project was developed with the following technologies:
 - [Phosphor-react]()
 - [Zod]()
 - [Date fns]()
+- [Immer]()
 
 ## Libraries
 
@@ -36,6 +37,7 @@ This project was developed with the following technologies:
 - npm i zod
 - npm i @hookform/resolvers
 - npm i date-fns
+- npm i immer
 
 ## Contributors
 
